@@ -19,6 +19,4 @@ end
 imprimeMsg()
 
 nomes = {"Ana", "Carlos", "Joao"}
-#nomes
 
-nomes[2]
