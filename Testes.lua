@@ -19,4 +19,3 @@ end
 imprimeMsg()
 
 nomes = {"Ana", "Carlos", "Joao"}
-
